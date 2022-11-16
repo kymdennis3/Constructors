@@ -6,8 +6,8 @@ public class Human {
 
     Human(String name, int age, double weight){
 
-        name = name; //assign the values in the constructor to each of the variable
-        age = age;
-        weight = weight;
+        this.name = name; //assign the values in the constructor to each of the variable
+        this.age = age;
+        this.weight = weight;
     }
 }
