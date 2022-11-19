@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfe19ba8-24e6-4f37-820e-32b05803fd69" name="Changes" comment="created a second object and displayed one of their attributes" />
+    <list default="true" id="dfe19ba8-24e6-4f37-820e-32b05803fd69" name="Changes" comment="instantiated two methods and used it with both of our objects">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668573003112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="instantiated two methods and used it with both of our objects">
+      <created>1668573397019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668573397019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +90,7 @@
     <MESSAGE value="testing to display an attribute of human1 (using constructors) without initiating it with this. (The output is null)" />
     <MESSAGE value="using this now displays the attributed called" />
     <MESSAGE value="created a second object and displayed one of their attributes" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a second object and displayed one of their attributes" />
+    <MESSAGE value="instantiated two methods and used it with both of our objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="instantiated two methods and used it with both of our objects" />
   </component>
 </project>
